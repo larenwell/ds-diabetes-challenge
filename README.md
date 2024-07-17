@@ -1,2 +1,3 @@
 # ds-diabetes-challenge
-Repositorio donde se pretende abordar la deteccion de pacientes que serán readmitidos por problemas con diabetes. Se carga información de admisiones a hospitales de enfermos de diabetes. El objetivo es estudiando el historial clínico, cuales de ellos volverán a ser readmitidos al hospital por problemas con la diabetes.
+
+Repository where it is intended to address the detection of patients who will be readmitted for problems with diabetes. Information on hospital admissions for diabetes patients is uploaded. The objective is to study the clinical history, which of them will be readmitted to the hospital due to problems with diabetes.
